@@ -1,25 +1,42 @@
-# Social Media Attention Span Study
+## Dataset Information
 
-## Project Overview
-This project analyzes social media attention span and user engagement patterns.
+The dataset was collected through a survey on social media usage and attention span patterns. It contains user demographics, screen time, platform preferences, and engagement metrics.
 
-## Objectives
-- Analyze user engagement
-- Identify factors affecting attention span
-- Generate business insights
+## Technologies Used
 
-## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
-## Key Findings
-- ...
-- ...
-- ...
+## Project Structure
 
-## Future Scope
-- AI-based recommendations
-- Mental wellness monitoring systems
+├── images/
+├── notebook/
+│   └── social media.ipynb
+├── reports/
+│   └── final_report.md
+├── src/
+├── README.md
+└── requirements.txt
+
+## Business Insights
+
+1. Users spending more than 4 hours daily on social media showed lower attention spans.
+2. Short-form content generated higher engagement than long-form content.
+3. Younger users interacted more frequently with social media platforms.
+4. Excessive scrolling behavior was associated with reduced content retention.
+5. Engagement levels varied significantly across different social media platforms.
+
+## Future Improvements
+
+- Increase dataset size
+- Build predictive machine learning models
+- Develop an interactive dashboard using Power BI or Streamlit
+- Perform sentiment analysis on user feedback
+
+## Author
+
+Karthika Vardhan
