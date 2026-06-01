@@ -39,4 +39,4 @@ The dataset was collected through a survey on social media usage and attention s
 
 ## Author
 
-Karthika Vardhan
+Karthika
